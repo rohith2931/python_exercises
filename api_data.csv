@@ -1,0 +1,6 @@
+id,wikiDataId,type,city,name,country,countryCode,region,regionCode,regionWdId,latitude,longitude,population
+3350606,Q24668,CITY,Aixirivall,Aixirivall,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.46245,1.50209,1025
+3216144,Q24656,CITY,Aixovall,Aixovall,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.47635833,1.48949167,69
+3406038,Q4699394,CITY,Aixàs,Aixàs,Andorra,AD,Sant Julià de Lòria,06,Q24282,42.48638889,1.46722222,0
+3673384,Q2522163,CITY,Andorra la Vella,Andorra la Vella,Andorra,AD,Andorra la Vella,07,Q2522163,42.5,1.5,22615
+397,Q1863,CITY,Andorra la Vella,Andorra la Vella,Andorra,AD,Andorra la Vella,07,Q2522163,42.5,1.5,23324
